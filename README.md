@@ -31,7 +31,7 @@ A high-resolution video asset has been optimized/removed to maintain repository 
 </p>
 
 <p align="center">
-  <img src="./Screenshots/download-3.png" width="45%" />
+  <img src="./Screenshots/download3.png" width="45%" />
   <img src="./Screenshots/download-4.png" width="45%" />
 </p>
 
