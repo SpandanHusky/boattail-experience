@@ -1,0 +1,450 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    color: #fff;
+    height: 4000px;
+    font-family: "Arsenal", sans-serif;
+    margin: 0px;
+    cursor: none; /* hide default cursor */
+    overflow-x: hidden;
+}
+
+.main-section {
+    background: url('/Image/original\ \(2\).jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 650px; 
+    padding-top: 100px;
+    position: relative;
+    overflow: hidden;
+}
+
+.main-section::before {
+     content: "";
+  position: absolute;
+  inset: 0;
+  background: inherit;
+   transform: scale(1.03);
+  z-index: 0;              /* behind content */
+  filter: blur(var(--blur, 0px));
+  transition: filter 0.15s linear;
+}
+
+.main-section > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* your fixed navbar stays as-is */
+.navbar {
+  position: fixed;
+  top: 0; 
+  left: 0; 
+  width: 100%;
+  z-index: 1000;
+}
+
+/* smooth background reveal on scroll for the navbar (you already had this) */
+.first-ul-nav {
+  transition: background 0.3s ease, backdrop-filter 0.3s ease;
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+    /* margin-left: 542px; */
+    margin: 0px auto;
+}
+
+.logo-2 {
+    height: 70px;
+    width: 70px;
+    display: none;
+    /* margin-left: 542px; */
+    margin: 0px auto;
+    margin-top: -20px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 1000;
+}
+
+.first-ul-nav {
+    background: transparent;
+    transition: all .70s ease;
+    width: 100%;
+    height: 70px;
+}
+
+.first-ul-nav.scrolled {
+    background: rgba(0, 0, 0, 0.267);
+    backdrop-filter: blur(10px);
+}
+
+.first-ul-nav.scrolled .dealer-li {
+    margin-top: 2px;
+}
+
+.first-ul-nav.scrolled .menu-li {
+    margin-top: 2px;
+}
+
+.first-ul-nav.scrolled .logo-li {
+    display: none;
+}
+
+.first-ul-nav.scrolled .logo-2 {
+    display: inline-block;  
+}
+
+.nav-options {
+    display: flex;
+}
+
+.nav-options ul {
+    display: flex;
+    list-style: none;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.nav-options ul li {
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    color: #ededed;
+}
+
+.logo-li {
+    margin-top: 5px;
+}
+
+.bar {
+    margin-top: 5px;
+}
+
+.bar-design {
+    height: 2px;
+    width: 17px;
+    background: #fff;
+    margin-top: 4px;
+    margin-right: 16px;
+}
+
+/* .bar:hover .bar-design {
+    animation: animate 1s ease infinite;
+}
+
+@keyframes animate {
+    0% {
+        width: 0px;
+    }
+
+    /* 50% {
+        width: 0px;
+    } */
+
+    /* 100% {
+        width: 17px;
+    }
+} */
+
+.bar-1 {
+    width: 9px;
+}
+
+.sub-bar-1 {
+    height: 2px;
+    width: 5px;
+    background: #fff;
+    margin-left: 12px;
+}
+
+.dealer-li {
+    /* margin-left: 480px; */
+    margin: 0px auto;
+    margin-top: 22px;
+}
+
+.menu-li {
+    margin-top: 20px;
+}
+
+.menu-span {
+    margin-top: 4px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+.dealer {
+    margin-left: 10px;
+    letter-spacing: 1px;
+}
+
+.magnify-glass-icon {
+    margin-top: 3px;
+}
+
+.line {
+    margin-top: 54px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition: margin-top 220ms ease;
+}
+
+.cursor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 15px;
+    height: 15px;
+    border: 1px solid white; /* circle color */
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s ease-out;
+    z-index: 9999;
+}
+
+.cars-nav {
+    display: flex;
+}
+
+.cars-nav ul {
+    display: flex;
+    list-style: none;
+    margin-top: 15px;
+    /* margin-left: 450px; */
+    margin: 0px auto;
+}
+
+
+.cars-nav ul li {
+    margin-left: 30px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.build {
+    margin-left: 20px;
+    margin-top: 15px;
+    letter-spacing: 1px;
+}
+
+.car-name-heading {
+    text-align: center;
+    margin-top: 88px;
+    font-size: 67px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.coach-build-para {
+    margin-top: 17px;
+    font-size: 26px;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.section-2 {
+    height: 250vh;
+    background: rgba(42, 66, 100, 01);
+}
+
+.section-2-text {
+    display: flex;
+}
+
+.section-2-h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 41px;
+    padding-top: 170px;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+.section-2-p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+
+.boat-tail-option {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 20px;
+}
+
+.video {
+    height: 600px;
+    /* margin-left: 120px; */
+    margin: 0px auto;
+    margin-top: 130px;
+}
+
+.section-2-second-h1 {
+    margin-top: -40px;
+    text-align: center;
+}
+
+.discover-btn {
+    background: transparent;
+    padding: 13px;
+    border-radius: 50px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: #ccc;
+    cursor: none;
+    padding-left: 46px;
+    padding-right: 46px;
+    display: inline-block;
+    margin-top: 85px;
+    /* margin-left: 530px; */
+    margin: 0px auto;
+    letter-spacing: 1px;
+}
+
+.section-3 {
+    background: url("/Image/back\ of\ rolls\ oryce\ boat-tail.webp");
+    height: 115vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.section-4 {
+    height: 180vh;
+    background: #2a4264;
+}
+
+.section-4-h1 {
+    font-weight: lighter;
+    text-align: center;
+    font-size: 37px;
+    letter-spacing: 1px;
+    padding-top: 190px;
+    line-height: 50px;
+}
+
+.span-design {
+    font-size: 15px;
+    /* margin-left: 550px; */
+    margin: 0px auto;
+    margin-top: 30px;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.span-2 {
+    margin-top: 5px;
+    /* margin-left: 528px; */
+    margin: 0px auto;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.section-4-2nd-h1 {
+    margin-top: 120px;
+}
+
+.section-5 {
+    background: url("/Image/Side\ view\ of\ boattail\ car.jpeg");
+    height: 115vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.section-4-h1, .span-design, .section-2-second-h1, .section-2-second-p {
+  opacity: 0;
+  transform: translateY(120px);
+  transition: all 0.95s ease-out;
+}
+
+/* Visible state */
+.reveal {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.section-4-2nd-p {
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
+
+.section-6 {
+    background: #2a4264;
+    height: 120vh;
+}
+
+.image-text-container {
+    display: flex;
+    padding-top: 100px;
+
+}
+
+.section-6-img-1 {
+    max-width: 800px;
+    aspect-ratio: 3/2;   /* keeps correct ratio */
+    object-fit: cover;
+    display: block;
+}
+
+.text-container {
+    flex-direction: column;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.section-6-h1 {
+    font-weight: normal;
+    font-size: 28px;
+}
+
+.section-6-p {
+    margin-top: 20px;
+    line-height: 30px;
+    font-size: 17px;
+}
+
+.slide {
+  display: none;          /* hidden by default */
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+
+  /* layout */
+  align-items: center;    /* vertically center text with image */
+  gap: 50px;              /* space between image and text */
+}
+
+.slide.active {
+  display: flex;          /* show as flex row */
+  opacity: 1;
+}
+
+.slide img {
+  max-width: 800px;
+  object-fit: cover;
+}
+
+.slide .text-container {
+  flex: 1;                /* text takes remaining space */
+  margin-left: 0;         /* reset old margin */
+  margin-top: 0;          /* reset old margin */
+}
