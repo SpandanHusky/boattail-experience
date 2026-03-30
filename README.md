@@ -26,16 +26,16 @@ A high-resolution video asset has been optimized/removed to maintain repository 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./delete screenshots/download-1.png" width="45%" />
-  <img src="./delete screenshots/download-2.png" width="45%" />
+  <img src="./delete%20screenshots/download-1.png" width="45%" />
+  <img src="./delete%20screenshots/download-2.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./delete screenshots/download-3.png" width="45%" />
-  <img src="./delete screenshots/download-4.png" width="45%" />
+  <img src="./delete%20screenshots/download-3.png" width="45%" />
+  <img src="./delete%20screenshots/download-4.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./delete screenshots/download-5.png" width="45%" />
-  <img src="./delete screenshots/download6.png" width="45%" />
+  <img src="./delete%20screenshots/download-5.png" width="45%" />
+  <img src="./delete%20screenshots/download6.png" width="45%" />
 </p>
