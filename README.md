@@ -22,3 +22,20 @@ All design and brand assets belong to their respective owners.
 
 ⚙️ Note on Assets
 A high-resolution video asset has been optimized/removed to maintain repository efficiency. The visual experience remains consistent with the original design intent.
+
+## 📸 Preview
+
+<p align="center">
+  <img src="./delete screenshots/download-1.png" width="45%" />
+  <img src="./delete screenshots/download-2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./delete screenshots/download-3.png" width="45%" />
+  <img src="./delete screenshots/download-4.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./delete screenshots/download-5.png" width="45%" />
+  <img src="./delete screenshots/download6.png" width="45%" />
+</p>
