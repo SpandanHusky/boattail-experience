@@ -26,7 +26,7 @@ A high-resolution video asset has been optimized/removed to maintain repository 
 ## 📸 Preview
 ![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-1.png)
 ![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-2.png)
-![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-3.png)
+![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download3.png)
 ![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-4.png)
 ![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-5.png)
 ![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download6.png)
