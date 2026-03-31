@@ -24,22 +24,14 @@ All design and brand assets belong to their respective owners.
 A high-resolution video asset has been optimized/removed to maintain repository efficiency. The visual experience remains consistent with the original design intent.
 
 ## 📸 Preview
+<img width="533" height="253" alt="download-1" src="https://github.com/user-attachments/assets/c42aa393-4bd3-49e4-9564-4bee69209946" />
 
-![Preview](https://github.com/SpandanHusky/boattail-experience/blob/main/Screenshots/download-1.png?raw=true)
-![Preview](https://github.com/SpandanHusky/boattail-experience/blob/main/Screenshots/download-2.png?raw=true)
-![Preview](https://github.com/SpandanHusky/boattail-experience/blob/main/Screenshots/download3.png?raw=true)
+<img width="536" height="254" alt="download-2" src="https://github.com/user-attachments/assets/ec59702f-76b0-4d82-8f73-2e1131c1d318" />
 
-<!-- <p align="center">
-  <img src="./Screenshots/download-1.png" width="45%" />
-  <img src="./Screenshots/download-2.png" width="45%" /> 
-</p>
+<img width="540" height="254" alt="download3" src="https://github.com/user-attachments/assets/b1200e31-7c0d-4b6c-b360-2a49c698bd55" />
 
-<p align="center">
-  <img src="./Screenshots/download3.png" width="45%" />
-  <img src="./Screenshots/download-4.png" width="45%" />
-</p>
+<img width="537" height="253" alt="download-4" src="https://github.com/user-attachments/assets/b552dc96-63b3-4dc3-ae5c-d27ffb08f8cf" />
 
-<p align="center">
-  <img src="./Screenshots/download-5.png" width="45%" />
-  <img src="./Screenshots/download6.png" width="45%" />
-</p> -->
+<img width="536" height="254" alt="download-5" src="https://github.com/user-attachments/assets/12be106e-be66-4b1a-9a19-313aa14adcfc" />
+
+<img width="533" height="254" alt="download6" src="https://github.com/user-attachments/assets/572205c2-14ea-44ed-be96-d668653a8e12" />
