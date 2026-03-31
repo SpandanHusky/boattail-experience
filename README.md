@@ -24,9 +24,19 @@ All design and brand assets belong to their respective owners.
 A high-resolution video asset has been optimized/removed to maintain repository efficiency. The visual experience remains consistent with the original design intent.
 
 ## 📸 Preview
-![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-1.png)
-![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-2.png)
-![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download3.png)
-![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-4.png)
-![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download-5.png)
-![Preview](https://raw.githubusercontent.com/SpandanHusky/boattail-experience/main/Screenshots/download6.png)
+## 📸 Preview
+
+<p align="center">
+  <img src="Screenshots/Screenshot_31-3-2026_132444_127.0.0.1.jpeg" width="45%" />
+  <img src="Screenshots/Screenshot_31-3-2026_133553_127.0.0.1.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot_31-3-2026_134127_127.0.0.1.jpeg" width="45%" />
+  <img src="Screenshots/Screenshot_31-3-2026_134216_127.0.0.1.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot_31-3-2026_134314_127.0.0.1.jpeg" width="45%" />
+  <img src="Screenshots/Screenshot_31-3-2026_134835_127.0.0.1.jpeg" width="45%" />
+</p>
