@@ -25,7 +25,9 @@ A high-resolution video asset has been optimized/removed to maintain repository 
 
 ## 📸 Preview
 
-<p align="center">
+![Preview](https://github.com/SpandanHusky/boattail-experience/blob/main/Screenshots/download-1.png?raw=true)
+
+<!-- <p align="center">
   <img src="./Screenshots/download-1.png" width="45%" />
   <img src="./Screenshots/download-2.png" width="45%" /> 
 </p>
@@ -38,4 +40,4 @@ A high-resolution video asset has been optimized/removed to maintain repository 
 <p align="center">
   <img src="./Screenshots/download-5.png" width="45%" />
   <img src="./Screenshots/download6.png" width="45%" />
-</p>
+</p> -->
