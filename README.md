@@ -26,8 +26,8 @@ A high-resolution video asset has been optimized/removed to maintain repository 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./Screenshots/download-1.png" width="45%">
-  <img src="./Screenshots/download-2.png" width="45%"> 
+  <img src="./Screenshots/download-1.png" width="45%" />
+  <img src="./Screenshots/download-2.png" width="45%" /> 
 </p>
 
 <p align="center">
