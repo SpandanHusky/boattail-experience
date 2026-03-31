@@ -24,7 +24,6 @@ All design and brand assets belong to their respective owners.
 A high-resolution video asset has been optimized/removed to maintain repository efficiency. The visual experience remains consistent with the original design intent.
 
 ## 📸 Preview
-## 📸 Preview
 
 <p align="center">
   <img src="Screenshots/Screenshot_31-3-2026_132444_127.0.0.1.jpeg" width="45%" />
